@@ -5,7 +5,7 @@ class FilterBar extends Component {
     render () {
       return (
         <main>
-                    <p>Here is a filter bar</p>
+          <p>Here is a filter bar</p>
         </main>
       )
     }

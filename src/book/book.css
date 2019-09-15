@@ -1,0 +1,12 @@
+.book-result{
+    text-align: center;
+    height: 199px;
+}
+
+.book-pic{
+    float: left;
+}
+
+.title{
+    margin-bottom: 25px;
+}

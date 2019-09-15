@@ -1,0 +1,23 @@
+.book-search{
+    text-align: center;
+}
+
+.fiter{
+    display: block;
+}
+
+.search{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.header{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0 0 0 0;
+}
+
+form{
+    background-color: grey;
+}
