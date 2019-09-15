@@ -1,12 +1,18 @@
-import React from 'react';
+import React , {Component}  from 'react';
 import './App.css';
+import SearchForm from './searchForm/searchForm';
+import BookList from './bookList/bookList';
 
-function App() {
-  return (
-    <main className='App'>
-      {/* content goes here */}
-    </main>
-  );
+
+class App extends Component {
+  render () {
+    return (
+      <main>
+        <SearchForm />
+        <BookList />
+      </main>
+    )
+  }
 }
 
 export default App;
